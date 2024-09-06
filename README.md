@@ -8,5 +8,5 @@ Este é um jogo da velha simples implementado em Python. O jogo é jogado em um 
 - Loop de Jogo: O loop principal do jogo permite que os jogadores façam suas jogadas até que haja um vencedor ou um empate.
 
 # Como Executar
-- Execute o código em um ambiente Python (3.x recomendado) usando o comando;
+- Execute o código em um ambiente Python (3.x recomendado);
 - Siga as instruções na tela para jogar. Os jogadores devem escolher a linha e a coluna para fazer suas jogadas.
