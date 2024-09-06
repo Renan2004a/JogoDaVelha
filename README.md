@@ -7,6 +7,6 @@ Este é um jogo da velha simples implementado em Python. O jogo é jogado em um 
 - Verificação de Vitória Total: A função ganhou_total() verifica se algum jogador ganhou.
 - Loop de Jogo: O loop principal do jogo permite que os jogadores façam suas jogadas até que haja um vencedor ou um empate.
 
-#Como Executar
+# Como Executar
 Execute o código em um ambiente Python (3.x recomendado) usando o comando;
 Siga as instruções na tela para jogar. Os jogadores devem escolher a linha e a coluna para fazer suas jogadas.
